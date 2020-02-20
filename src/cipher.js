@@ -1,3 +1,4 @@
+//prueba 
 const cipher = {
   
   encode: (valueNum,valueText) => 
