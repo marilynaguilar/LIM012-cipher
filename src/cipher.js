@@ -1,38 +1,40 @@
-//prueba 
+
 const cipher = {
   
+  
   encode: (valueNum,valueText) => {
+    let resultEncode = '';
 
-    //creando un ciclo for que recorra
-    for (let i = 0; i < valueText.length; i++) 
+    
+    for (let i = 0; i < valueText.length; i++) //creando un ciclo for que recorra. 0 xque es la posicion inicial 
     {
-    let asciiPositionText = valueText.charCodeAt(i);
-    if (asciiPositionText >= 65 && asciiPositionText <= 90) 
+    let asciiPositionText = valueText.charCodeAt(i); //obteniendo la posicion ascii de la letra 
+    if (asciiPositionText >= 65 && asciiPositionText <= 90)// condicion
     {
-      let formulaCipher = (asciiPositionText-65+parseInt(valueNum))%26+65;
-      boxResult.value+= String.fromCharCode(formulaCipher); 
+      let formulaCipher = (asciiPositionText-65+parseInt(valueNum))%26+65;//aplicando la fórmula cipher
+      resultEncode+= String.fromCharCode(formulaCipher); 
     } else {
-      boxResult.value += valueText[i];
+      resultEncode += valueText[i];
     }
     }
-    return boxResult.value 
+    return resultEncode 
   },
 
-  decode:(valueNum,valueText) =>
+  decode: (valueNum,valueText) =>
   {
-    
+    let resultDecode = '';
     for (let i = 0; i < valueText.length; i++)
     {
       let asciiPositionText = valueText.charCodeAt(i);
       if (asciiPositionText >= 65 && asciiPositionText <= 90)
     {
       let formulaCipher = (asciiPositionText-90-parseInt(valueNum))%26+90;
-      boxResult.value+= String.fromCharCode(formulaCipher);
+      resultDecode+= String.fromCharCode(formulaCipher);
     } else {
-      boxResult.value += valueText[i];
+      resultDecode += valueText[i];
     }
     }
-    return boxResult.value
+    return resultDecode
   },
 
 };

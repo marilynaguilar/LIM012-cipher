@@ -1,8 +1,8 @@
 //prueba
 import cipher from './cipher.js';
 
-let buttonEncode = document.getElementById('buttonEncode');
-let buttonDecode = document.getElementById('buttonDecode');
+const buttonEncode = document.getElementById('buttonEncode');
+const buttonDecode = document.getElementById('buttonDecode');
 
 let boxText = document.getElementById('boxText');
 let boxNum = document.getElementById('boxNum');
