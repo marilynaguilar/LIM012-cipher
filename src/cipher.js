@@ -4,6 +4,10 @@ const cipher = {
   
   encode: (valueNum,valueText) => {
     let resultEncode = '';
+    if(valueNum == null || valueNum == 0)
+    {
+     throw new TypeError();
+    }
 
     
     for (let i = 0; i < valueText.length; i++) //creando un ciclo for que recorra. 0 xque es la posicion inicial 
@@ -23,6 +27,9 @@ const cipher = {
   decode: (valueNum,valueText) =>
   {
     let resultDecode = '';
+    if(valueNum == null || valueNum == 0){
+      throw new TypeError();
+    }
     for (let i = 0; i < valueText.length; i++)
     {
       let asciiPositionText = valueText.charCodeAt(i);
