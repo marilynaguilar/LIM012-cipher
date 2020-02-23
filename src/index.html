@@ -7,24 +7,28 @@
   </head>
   <body>
     <header>
-      <h1>Inicio</h1>
-      <h2>SOMOS</h2>
-      <h3>SERVICIOS</h3>
+      <div class="header1"><h>INICIO</h></div>
+      <div class="header2"><h>¿QUIÉNES SOMOS</h></div>
+      <div class="header3"><h>SERVICIOS & CONTACTO</h></div>
+      <div class="header4"><h>PORTAL DE CLIENTE</h></div>
     </header>
     <main>
-      <form>
-        <p1> Prueba nuestro generador de código único para tu caja fuerte </p1>
-        <p>Te ofrecemos un método de seguridad más óptimo y seguro para ti llamado:</p> 
-        <p>Ingrese el texto :</p>
+      
+      <div clas="box"> 
+      <form class="formulario">
+      </br><p1> <B>GENERADOR DE CÓDIGO </B> </p1>
+        <p>Te invitamos a probar un método de seguridad más óptimo y seguro para ti llamado: <B>“cifrado César”</B>, el cual te permite generar un codigo único para tu caja fuerte. <B>¡Pruébalo!</B></p> 
+        <p><b>Ingrese el texto :</b></p>
         <textarea id="boxText" class="textarea" placeholder="texto"></textarea>
-        <p>Ingrese el número de desplazamiento :</p>
-        <textarea id="boxNum" class="textarea" placeholder="número"></textarea>
+        <p><B>Ingrese el número de desplazamiento :</B></p>
+        <textarea id="boxNum" class="textarea" placeholder="número"></textarea><br>
         <button id="buttonEncode" type="button">Cifrar</button>
         <button id="buttonDecode" type="button">Descifrar</button>
-        <p>Tu código único es :</p>
-        <textarea id="boxResult" class="textarea" placeholder="resultado"></textarea>
+        <p><B>Tu código único es :</B></p>
+        <textarea id="boxResult" class="textarea" placeholder="resultado"></textarea></br>
         <input type="reset" value="limpiar">
-      </form>
+       </form>
+      <img class="imagen" src="img.png">
     </main>
     <footer>Compañia segurCorp -Todos los derechos reservados - creado por marilynDesing - 2020</footer>
     <script src="index.js" type="module"></script>
