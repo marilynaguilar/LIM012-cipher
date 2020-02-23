@@ -6,22 +6,29 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <header>
-      <div class="header1"><h>INICIO</h></div>
-      <div class="header2"><h>¿QUIÉNES SOMOS</h></div>
-      <div class="header3"><h>SERVICIOS & CONTACTO</h></div>
-      <div class="header4"><h>PORTAL DE CLIENTE</h></div>
+    <header> 
+     
+      <div class="boxHeader"></div>
+      <a class="header1"> INICIO </a>
+      <!-- <select class="con_estilos">
+      <option>Primera opcion</option>
+      <option>Segunda opcion</option>
+      </select>  -->
+      <a class="header2">¿QUIÉNES SOMOS</a>
+      <a class="header3">SERVICIOS & CONTACTO</a>
+      <a class="header4">PORTAL DE CLIENTE</a>
+      
     </header>
     <main>
-      
+      <img class="imagen1" src="logo.png">
       <div clas="box"> 
       <form class="formulario">
-      </br><p1> <B>GENERADOR DE CÓDIGO </B> </p1>
-        <p>Te invitamos a probar un método de seguridad más óptimo y seguro para ti llamado: <B>“cifrado César”</B>, el cual te permite generar un codigo único para tu caja fuerte. <B>¡Pruébalo!</B></p> 
+      </br><p1><B>GENERADOR DE CÓDIGO </B></p1></br> 
+        <p2>Te invitamos a probar un método de seguridad </br>más óptimo y seguro para ti llamado: <B>“cifrado César”</B>, el cual te</br> permite generar un codigo único para tu caja fuerte. </br><B>¡Pruébalo!</B></p2> 
         <p><b>Ingrese el texto :</b></p>
         <textarea id="boxText" class="textarea" placeholder="texto"></textarea>
         <p><B>Ingrese el número de desplazamiento :</B></p>
-        <textarea id="boxNum" class="textarea" placeholder="número"></textarea><br>
+        <textarea id="boxNum" class="textarea" placeholder="número"></textarea></br>
         <button id="buttonEncode" type="button">Cifrar</button>
         <button id="buttonDecode" type="button">Descifrar</button>
         <p><B>Tu código único es :</B></p>
@@ -29,8 +36,9 @@
         <input type="reset" value="limpiar">
        </form>
       <img class="imagen" src="img.png">
-    </main>
-    <footer>Compañia segurCorp -Todos los derechos reservados - creado por marilynDesing - 2020</footer>
+    </main> 
+    <footer>Company SafeCorporation - Todos los derechos reservados-marilyncarolayDesing </br>2020</footer>
+   
     <script src="index.js" type="module"></script>
     <script src="cipher.js" type="module"></script>
   </body>
