@@ -34,8 +34,7 @@ Este producto soluciona el momento que tiene el cliente en idear un clave segura
 ![Recurso 1](https://user-images.githubusercontent.com/60928881/75129095-6f8f4e80-5695-11ea-8c69-f1a595648c47.png)
 
 ## 8.Prototipo a papel
-![propotipo_a_papel](https://user-images.githubusercontent.com/60928881/75127817-3522b300-568f-11ea-88d5-5725d7f56529.jpeg)
-
+![Prototipo_papel](https://user-images.githubusercontent.com/60928881/75130473-7f5e6100-569c-11ea-97c8-4bf82cc598f6.jpeg)
 
 ## 9.Feedback
 El feedback inical de mi coach, fue acerca de funcionalidad, me recomendo agregarle un boton que limpiara los campos y uno que permita descifrar el código, por si el cliente quisiera recordarlo. Los siguientes feedback fueron sugerencias para el color de fondo. 
