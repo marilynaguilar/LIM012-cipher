@@ -7,9 +7,11 @@
 * [4. Investigación UX](#4-Investigación)
 * [5. Objetivo de proyecto](#5-Objetivo)
 * [6.¿Cómo el producto soluciona los problemas? ](#6-Problema)
-* [7.Prototipo en papel ](#7-Prototipo a papel)
-* [8.feedback  ](#8-Feedback)
-* [9.Prototipo final ](#8-Feedback)
+* [7.Diagrama de Flujo ](#7-Feedback)
+* [8.Prototipo en papel ](#8-Prototipo a papel)
+* [9.feedback  ](#9-Feedback)
+* [10.Prototipo final ](#10-prototipo)
+
 
 
 ## 1.Resumen
@@ -28,17 +30,20 @@ El producto está diseñado para optimizar la seguridad de nuestros clientes, of
 ## 6.Problema
 Este producto soluciona el momento que tiene el cliente en idear un clave segura. Ahorrandole tiempo, seguridad (código unico).
 
-## 7.Prototipo a papel
+## 7.Diagrama de Flujo
+![Recurso 1](https://user-images.githubusercontent.com/60928881/75129095-6f8f4e80-5695-11ea-8c69-f1a595648c47.png)
+
+## 8.Prototipo a papel
 ![propotipo_a_papel](https://user-images.githubusercontent.com/60928881/75127817-3522b300-568f-11ea-88d5-5725d7f56529.jpeg)
 
 
-## 8.Feedback
+## 9.Feedback
 El feedback inical de mi coach, fue acerca de funcionalidad, me recomendo agregarle un boton que limpiara los campos y uno que permita descifrar el código, por si el cliente quisiera recordarlo. Los siguientes feedback fueron sugerencias para el color de fondo. 
 
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
   5. Imagen del prototipo final.
   
-  ## 9.Prototipo Final
+  ## 10.Prototipo Final
  
   ![Prototipo final](https://user-images.githubusercontent.com/60928881/75128113-98f9ab80-5690-11ea-95cf-a0a1c2cd15d4.jpg)
 
