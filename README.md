@@ -7,8 +7,8 @@
 * [3. Investigación UX](#2-Investigacion-UX)
 * [4. Objetivo del proyecto](#4-Objetivo-del-proyecto)
 * [5.¿Cómo el producto soluciona los problemas? ](#6-¿cómo-el-producto-soluciona-los-problemas?)
-* [6.Diagrama de Flujo ](#7-Diagrama-de-flujo)}
-* [7.Prototipo a papel ](#7-Prototipo--papel)
+* [6.Diagrama de Flujo ](#7-Diagrama-de-flujo)
+* [7.Prototipo a papel ](#7-Prototipo-a-papel)
 * [8.feedback](#8-Feedback)
 * [9.Prototipo final ](#9-prototipo-final)
 
