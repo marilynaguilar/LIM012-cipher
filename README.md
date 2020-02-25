@@ -70,7 +70,7 @@ El feedback inical de mi coach, fue acerca de funcionalidad, me recomendo agrega
 ### Git y GitHub
 * [x] [Comandos de git](https://lms.laboratoria.la/cohorts/lim-2019-09-bc-core-lim011/courses/scm/01-git/04-commands)
   (`add` | `commit` | `pull` | `status` | `push`).
-* [] [Manejo de repositorios de GitHub](https://lms.laboratoria.la/cohorts/lim-2019-09-bc-core-lim011/courses/scm/02-github/01-github)  (`clone` | `fork` | `gh-pages`).
+* [x] [Manejo de repositorios de GitHub](https://lms.laboratoria.la/cohorts/lim-2019-09-bc-core-lim011/courses/scm/02-github/01-github)  (`clone` | `fork` | `gh-pages`).
 ### Buenas prácticas de desarrollo
 * [ ] Organizar y dividir el código en módulos (Modularización).
 * [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
