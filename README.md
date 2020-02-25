@@ -14,7 +14,7 @@
 
 
 
-## 1.Resumen de proyecto
+## 1. Resumen de proyecto
 En este proyecto construir una aplicación web (webApp) para una empresa de seguros "Safe Corporation", el cual permite al usuario obtener un código único, tan solo digitando un palabra y colocando un número de desplazamiento, así obtendra su codigo para utilizarlo en su caja fuerte, garantizando la seguridad de sus objetos valiosos.
 
 ## 2.Imagen Final de proyecto
@@ -43,8 +43,8 @@ El feedback inical de mi coach, fue acerca de funcionalidad, me recomendo agrega
  ![Prototipo final](https://user-images.githubusercontent.com/60928881/75128113-98f9ab80-5690-11ea-95cf-a0a1c2cd15d4.jpg)
 
 ### UX
-* [ok] [Diseñar la aplicación pensando y entendiendo al usuario](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/intro-ux/01-el-proceso-de-diseno/00-el-proceso-de-diseno)
-* [ok] [Crear prototipos para obtener feedback e iterar](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/product-design/00-sketching/00-sketching)
+* [x] [Diseñar la aplicación pensando y entendiendo al usuario](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/intro-ux/01-el-proceso-de-diseno/00-el-proceso-de-diseno)
+* [x] [Crear prototipos para obtener feedback e iterar](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/product-design/00-sketching/00-sketching)
 * [ok] [Aplicar los principios de diseño visual](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/product-design/01-visual-design/01-visual-design-basics)
 ### HTML y CSS
 * [ok] [Uso correcto de HTML semántico](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML)
@@ -59,18 +59,17 @@ El feedback inical de mi coach, fue acerca de funcionalidad, me recomendo agrega
 * [ok] [Uso de condicionales](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/javascript/02-flow-control/01-conditionals-and-loops)
 * [ ] [Uso de bucles](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/javascript/02-flow-control/02-loops)
 * [ok] [Uso de funciones](https://lms.laboratoria.la/cohorts/lim-2019-09-bc-core-lim011/courses/javascript/02-flow-control/03-functions)
-* [ ] [Datos atómicos y estructurados]
+* [ ] [Datos atómicos y estructurados](https://www.todojs.com/tipos-datos-javascript-es6/)
 * [ ] Utilizar ES Modules (`import` | `export`).
 ### Testing
-* [ok] [Testeo de tus funciones
+* [ok] [Testeo de tus funciones](https://jestjs.io/docs/es-ES/getting-started)
 ### Git y GitHub
-* [ok] [Comandos de git]
+* [ok] [Comandos de git](https://lms.laboratoria.la/cohorts/lim-2019-09-bc-core-lim011/courses/scm/01-git/04-commands)
   (`add` | `commit` | `pull` | `status` | `push`).
-* [ok] [Manejo de repositorios de GitHub](`clone` | `fork` | `gh-pages`).
+* [ok] [Manejo de repositorios de GitHub](https://lms.laboratoria.la/cohorts/lim-2019-09-bc-core-lim011/courses/scm/02-github/01-github)  (`clone` | `fork` | `gh-pages`).
 ### Buenas prácticas de desarrollo
 * [ ] Organizar y dividir el código en módulos (Modularización).
 * [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
-* [ ] Uso de linter para seguir buenas prácticas (ESLINT).
-
+* [ ] Uso de linter para seguir buenas prácticas (ESLINT)
 
 
