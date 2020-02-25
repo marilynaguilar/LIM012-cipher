@@ -44,7 +44,8 @@ El feedback inical de mi coach, fue acerca de funcionalidad, me recomendo agrega
  ## 9. Prototipo Final
  ![Prototipo final](https://user-images.githubusercontent.com/60928881/75128113-98f9ab80-5690-11ea-95cf-a0a1c2cd15d4.jpg)
  
- ## 10. Objetivo de aprendizaje
+ ## 10. Objetivos de aprendizaje
+ 
 ### UX
 * [x] [Diseñar la aplicación pensando y entendiendo al usuario](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/intro-ux/01-el-proceso-de-diseno/00-el-proceso-de-diseno)
 * [x] [Crear prototipos para obtener feedback e iterar](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/product-design/00-sketching/00-sketching)
