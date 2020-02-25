@@ -40,10 +40,37 @@ Este producto soluciona el momento que tiene el cliente en idear un clave segura
 El feedback inical de mi coach, fue acerca de funcionalidad, me recomendo agregarle un boton que limpiara los campos y uno que permita descifrar el código, por si el cliente quisiera recordarlo. Los siguientes feedback fueron sugerencias para el color de fondo. 
 
  ## 9.Prototipo Final
- 
-  ![Prototipo final](https://user-images.githubusercontent.com/60928881/75128113-98f9ab80-5690-11ea-95cf-a0a1c2cd15d4.jpg)
+ ![Prototipo final](https://user-images.githubusercontent.com/60928881/75128113-98f9ab80-5690-11ea-95cf-a0a1c2cd15d4.jpg)
 
-
+### UX
+* [ok] [Diseñar la aplicación pensando y entendiendo al usuario](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/intro-ux/01-el-proceso-de-diseno/00-el-proceso-de-diseno)
+* [ok] [Crear prototipos para obtener feedback e iterar](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/product-design/00-sketching/00-sketching)
+* [ok] [Aplicar los principios de diseño visual](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/product-design/01-visual-design/01-visual-design-basics)
+### HTML y CSS
+* [ok] [Uso correcto de HTML semántico](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML)
+* [ok] [Uso de selectores de CSS](https://developer.mozilla.org/es/docs/Web/CSS/Selectores_CSS)
+* [ok] [Construir tu aplicación respetando el diseño realizado](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/css/01-css/02-boxmodel-and-display) (maquetación).
+### DOM
+* [ok] [Uso de selectores de nodos del DOM](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/browser/02-dom/03-1-dom-methods-selection)
+* [ok] [Manejo de eventos del DOM](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/browser/02-dom/04-events)
+* [ok] [Manipulación dinámica del DOM](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n)
+### Javascript
+* [ ] [Manipulación de strings](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/javascript/06-strings/01-strings)
+* [ok] [Uso de condicionales](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/javascript/02-flow-control/01-conditionals-and-loops)
+* [ ] [Uso de bucles](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/javascript/02-flow-control/02-loops)
+* [ok] [Uso de funciones](https://lms.laboratoria.la/cohorts/lim-2019-09-bc-core-lim011/courses/javascript/02-flow-control/03-functions)
+* [ ] [Datos atómicos y estructurados]
+* [ ] Utilizar ES Modules (`import` | `export`).
+### Testing
+* [ok] [Testeo de tus funciones
+### Git y GitHub
+* [ok] [Comandos de git]
+  (`add` | `commit` | `pull` | `status` | `push`).
+* [ok] [Manejo de repositorios de GitHub](`clone` | `fork` | `gh-pages`).
+### Buenas prácticas de desarrollo
+* [ ] Organizar y dividir el código en módulos (Modularización).
+* [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+* [ ] Uso de linter para seguir buenas prácticas (ESLINT).
 
 
 
