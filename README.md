@@ -66,7 +66,7 @@ El feedback inical de mi coach, fue acerca de funcionalidad, me recomendo agrega
 * [ ] [Datos atómicos y estructurados](https://www.todojs.com/tipos-datos-javascript-es6/)
 * [ ] Utilizar ES Modules (`import` | `export`).
 ### Testing
-* [x [Testeo de tus funciones](https://jestjs.io/docs/es-ES/getting-started)
+* [x] [Testeo](https://jestjs.io/docs/es-ES/getting-started)
 ### Git y GitHub
 * [x] [Comandos de git](https://lms.laboratoria.la/cohorts/lim-2019-09-bc-core-lim011/courses/scm/01-git/04-commands)
   (`add` | `commit` | `pull` | `status` | `push`).
