@@ -9,8 +9,8 @@
 * [5.¿Cómo el producto soluciona los problemas? ](#6-¿cómo-el-producto-soluciona-los-problemas?)
 * [6.Diagrama de Flujo ](#7-Diagrama-de-flujo)}
 * [7.Prototipo a papel ](#7-Prototipo_a_papel)
-* [8.feedback  ](#9-Feedback)
-* [9.Prototipo final ](#10-prototipo)
+* [8.feedback](#8-Feedback)
+* [9.Prototipo final ](#9-prototipo-final)
 
 
 
@@ -42,6 +42,7 @@ El feedback inical de mi coach, fue acerca de funcionalidad, me recomendo agrega
  ## 9.Prototipo Final
  
   ![Prototipo final](https://user-images.githubusercontent.com/60928881/75128113-98f9ab80-5690-11ea-95cf-a0a1c2cd15d4.jpg)
+
 
 
 
