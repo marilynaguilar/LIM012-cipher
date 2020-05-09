@@ -13,9 +13,6 @@
 * [9. Prototipo final ](#9-prototipo-final)
 * [10. Objetivos de aprendizaje ](#10-Objetivos-de-aprendizaje)
 
-![husky](https://user-images.githubusercontent.com/60928881/81484326-45681a00-920a-11ea-98fd-6e215afd7884.jpg)
-
-
 
 ## 1. Resumen de proyecto
 En este proyecto construir una aplicación web (webApp) para una empresa de seguros "Safe Corporation", el cual permite al usuario obtener un código único, tan solo digitando un palabra y colocando un número de desplazamiento, así obtendra su codigo para utilizarlo en su caja fuerte, garantizando la seguridad de sus objetos valiosos.
