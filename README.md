@@ -13,6 +13,7 @@
 * [9. Prototipo final ](#9-prototipo-final)
 * [10. Objetivos de aprendizaje ](#10-Objetivos-de-aprendizaje)
 
+![husky](https://user-images.githubusercontent.com/60928881/81484326-45681a00-920a-11ea-98fd-6e215afd7884.jpg)
 
 
 
